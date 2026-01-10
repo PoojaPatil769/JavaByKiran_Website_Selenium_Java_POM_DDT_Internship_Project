@@ -46,7 +46,12 @@ Configured using:
 
 -Browser setup in BaseTest
 
+📄 Page Description
 
+The Login Page is the entry point of the JavaByKiran / TheKiranAcademy web application.
+It authenticates users using Email and Password and grants access to the application dashboard upon successful login.
+
+This page is a critical functional area, as all secured modules depend on successful authentication.
 
 
 
