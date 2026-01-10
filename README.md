@@ -31,7 +31,7 @@ JavaByKiran / TheKiranAcademy Web Application
 -Downloads page
 
 -Useful links navigation
-
+---
 🌍 Cross Browser Execution
 
 -Chrome
@@ -54,7 +54,7 @@ The Login Page is the entry point of the JavaByKiran / TheKiranAcademy web appli
 It authenticates users using Email and Password and grants access to the application dashboard upon successful login.
 This page is a critical functional area, as all secured modules depend on successful authentication.
 
-⚙️The following validations are automated on the Login page:
+## ⚙️The following validations are automated on the Login page:
 
 ✔ Email input field validation
 ✔ Password input field validation
