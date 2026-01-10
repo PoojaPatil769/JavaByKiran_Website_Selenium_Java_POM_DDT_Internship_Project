@@ -47,7 +47,7 @@ Configured using:
 -Browser setup in BaseTest
 
 
-
+https://github.com/PoojaPatil769/JavaByKiran_Website_Selenium_Java_POM_DDT_Internship_Project/blob/ca8e9420fa20c7fb56f6a3b757df8bfa26229cc2/loginpage.png
 
 
 
