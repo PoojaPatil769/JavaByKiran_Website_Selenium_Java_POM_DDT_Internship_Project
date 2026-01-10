@@ -1,4 +1,4 @@
-# JavaByKiran_Website_Selenium_Java_POM_DDT_Internship_Project
+# JavaByKiranWebsite_Selenium_Java_POM_DDT_Internship_Project
 
 Welcome to the official repository. A real-time UI Automation Testing Framework developed for the JavaByKiran (TheKiranAcademy) web application using Selenium WebDriver, Java, TestNG, Page Object Model (POM), and Data-Driven Testing (DDT) with Excel.
 
