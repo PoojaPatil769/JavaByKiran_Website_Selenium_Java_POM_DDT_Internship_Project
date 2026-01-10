@@ -20,6 +20,7 @@ JavaByKiran / TheKiranAcademy Web Application
 Features automated:
 
 Login & Registration
+
 Dashboard validations
 User management
 Operators listing
