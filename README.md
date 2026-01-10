@@ -57,6 +57,7 @@ This page is a critical functional area, as all secured modules depend on succes
 ⚙️The following validations are automated on the Login page:
 
 ✔ Email input field validation
+
 ✔ Password input field validation
 
 ✔ Login button functionality
