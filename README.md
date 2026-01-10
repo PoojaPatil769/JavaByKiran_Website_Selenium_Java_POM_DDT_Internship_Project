@@ -18,33 +18,33 @@ Welcome to the official repository. A real-time UI Automation Testing Framework 
 
 JavaByKiran / TheKiranAcademy Web Application
 
-Features automated:
+*Features automated:
 
-Login & Registration
+-Login & Registration
 
-Dashboard validations
+-Dashboard validations
 
-User management
+-User management
 
-Operators listing
+-Operators listing
 
-Downloads page
+-Downloads page
 
-Useful links navigation
+-Useful links navigation
 
 🌍 Cross Browser Execution
 
-Chrome
+-Chrome
 
-Firefox
+-Firefox
 
-Edge
+-Edge
 
 Configured using:
 
-TestNG @Parameters
+-TestNG @Parameters
 
-Browser setup in BaseTest
+-Browser setup in BaseTest
 
 
 
