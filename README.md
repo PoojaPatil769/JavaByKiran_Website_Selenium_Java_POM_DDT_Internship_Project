@@ -47,7 +47,6 @@ Configured using:
 -Browser setup in BaseTest
 
 
-<img width="1267" height="668" alt="Image" src="https://github.com/user-attachments/assets/ccbaa2c7-8549-4c35-9e2f-ce9c7f062b9a" />
 
 
 
