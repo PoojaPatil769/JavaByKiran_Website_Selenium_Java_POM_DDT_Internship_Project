@@ -17,23 +17,35 @@ Welcome to the official repository. A real-time UI Automation Testing Framework 
 🔗 Application Under Test (AUT)
 
 JavaByKiran / TheKiranAcademy Web Application
+
 Features automated:
 
 Login & Registration
 
 Dashboard validations
+
 User management
+
 Operators listing
+
 Downloads page
+
 Useful links navigation
 
 🌍 Cross Browser Execution
+
 Chrome
+
 Firefox
+
 Edge
+
 Configured using:
+
 TestNG @Parameters
+
 Browser setup in BaseTest
+
 
 
 
