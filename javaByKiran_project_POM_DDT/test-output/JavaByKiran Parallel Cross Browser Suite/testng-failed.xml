@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [JavaByKiran Parallel Cross Browser Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="Edge Flow(failed)">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="tests.DownloadsTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyDownloadsPage"/>
+        </methods>
+      </class> <!-- tests.DownloadsTest -->
+      <class name="tests.AddUserTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyAddUser"/>
+        </methods>
+      </class> <!-- tests.AddUserTest -->
+      <class name="tests.UselinkTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyUsefulLinksPage"/>
+        </methods>
+      </class> <!-- tests.UselinkTest -->
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.DashboardTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyDashboard"/>
+        </methods>
+      </class> <!-- tests.DashboardTest -->
+      <class name="tests.RegisterTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyRegister"/>
+        </methods>
+      </class> <!-- tests.RegisterTest -->
+      <class name="tests.OperatorsTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyOperatorsPage"/>
+        </methods>
+      </class> <!-- tests.OperatorsTest -->
+    </classes>
+  </test> <!-- Edge Flow(failed) -->
+  <test thread-count="3" parallel="tests" name="Firefox Flow(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="tests.DownloadsTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyDownloadsPage"/>
+        </methods>
+      </class> <!-- tests.DownloadsTest -->
+      <class name="tests.AddUserTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyAddUser"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- tests.AddUserTest -->
+      <class name="tests.UselinkTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyUsefulLinksPage"/>
+        </methods>
+      </class> <!-- tests.UselinkTest -->
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.DashboardTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyDashboard"/>
+        </methods>
+      </class> <!-- tests.DashboardTest -->
+      <class name="tests.RegisterTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyRegister"/>
+        </methods>
+      </class> <!-- tests.RegisterTest -->
+      <class name="tests.OperatorsTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyOperatorsPage"/>
+        </methods>
+      </class> <!-- tests.OperatorsTest -->
+    </classes>
+  </test> <!-- Firefox Flow(failed) -->
+  <test thread-count="3" parallel="tests" name="Chrome Flow(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="tests.DownloadsTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyDownloadsPage"/>
+        </methods>
+      </class> <!-- tests.DownloadsTest -->
+      <class name="tests.AddUserTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyAddUser"/>
+        </methods>
+      </class> <!-- tests.AddUserTest -->
+      <class name="tests.UselinkTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyUsefulLinksPage"/>
+        </methods>
+      </class> <!-- tests.UselinkTest -->
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.DashboardTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyDashboard"/>
+        </methods>
+      </class> <!-- tests.DashboardTest -->
+      <class name="tests.RegisterTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verifyRegister"/>
+        </methods>
+      </class> <!-- tests.RegisterTest -->
+      <class name="tests.OperatorsTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="login"/>
+          <include name="verifyOperatorsPage"/>
+        </methods>
+      </class> <!-- tests.OperatorsTest -->
+    </classes>
+  </test> <!-- Chrome Flow(failed) -->
+</suite> <!-- Failed suite [JavaByKiran Parallel Cross Browser Suite] -->

@@ -1,0 +1,285 @@
+<html>
+<head>
+<title>TestNG:  FirefoxTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>FirefoxTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>41/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Jan 09 18:22:37 IST 2026</td>
+</tr>
+<tr><td>Total time:</td><td>485 seconds (485859 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.LoginTest.verifyLogin()'><b>verifyLogin</b><br>Test class: tests.LoginTest<br>Parameters: LOG_01, kiran@gmail.com, 123456, 1</td>
+<td></td>
+<td>3</td>
+<td>tests.LoginTest@37271612</td></tr>
+<tr>
+<td title='tests.OperatorsTest.verifyOperatorsPage()'><b>verifyOperatorsPage</b><br>Test class: tests.OperatorsTest<br>Parameters: OP_02, Operators, 5, Neelam</td>
+<td></td>
+<td>0</td>
+<td>tests.OperatorsTest@37883b97</td></tr>
+<tr>
+<td title='tests.RegisterTest.verifyRegister()'><b>verifyRegister</b><br>Test class: tests.RegisterTest<br>Parameters: REG_02,  "", 9037489273, anna@test.com, Test@123, 0</td>
+<td></td>
+<td>2</td>
+<td>tests.RegisterTest@ed7f8b4</td></tr>
+<tr>
+<td title='tests.OperatorsTest.verifyOperatorsPage()'><b>verifyOperatorsPage</b><br>Test class: tests.OperatorsTest<br>Parameters: OP_04, Operators, 5, Archana</td>
+<td></td>
+<td>0</td>
+<td>tests.OperatorsTest@37883b97</td></tr>
+<tr>
+<td title='tests.AddUserTest.verifyAddUser()'><b>verifyAddUser</b><br>Test class: tests.AddUserTest<br>Parameters: AU_01, pooja, 9876543210, pooja1@gmail.com, Java/J2EE, female, Maharashtra, pooja@123, PASS</td>
+<td></td>
+<td>2</td>
+<td>tests.AddUserTest@38102d01</td></tr>
+<tr>
+<td title='tests.UselinkTest.verifyUsefulLinksPage()'><b>verifyUsefulLinksPage</b><br>Test class: tests.UselinkTest<br>Parameters: UL_05,  Useful Links ,        Courses                       , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.UselinkTest@6ab778a</td></tr>
+<tr>
+<td title='tests.LoginTest.verifyLogin()'><b>verifyLogin</b><br>Test class: tests.LoginTest<br>Parameters: LOG_04, kiran@gmail.com, PPSa123, 0</td>
+<td></td>
+<td>3</td>
+<td>tests.LoginTest@37271612</td></tr>
+<tr>
+<td title='tests.OperatorsTest.verifyOperatorsPage()'><b>verifyOperatorsPage</b><br>Test class: tests.OperatorsTest<br>Parameters:  OP_01     , Operators, 5, Kiran</td>
+<td></td>
+<td>0</td>
+<td>tests.OperatorsTest@37883b97</td></tr>
+<tr>
+<td title='tests.RegisterTest.verifyRegister()'><b>verifyRegister</b><br>Test class: tests.RegisterTest<br>Parameters: REG_07, J, <<<8724594, jd@test.com, ^^^6^, 0</td>
+<td></td>
+<td>2</td>
+<td>tests.RegisterTest@ed7f8b4</td></tr>
+<tr>
+<td title='tests.AddUserTest.verifyAddUser()'><b>verifyAddUser</b><br>Test class: tests.AddUserTest<br>Parameters: AU_05, rohan, 9876543210, rohan@gmail.com, , Male, Maharashtra, rohan@123, FAIL</td>
+<td></td>
+<td>2</td>
+<td>tests.AddUserTest@38102d01</td></tr>
+<tr>
+<td title='tests.DownloadsTest.verifyDownloadsPage()'><b>verifyDownloadsPage</b><br>Test class: tests.DownloadsTest<br>Parameters: DL_01,  Java Development Kit (JDK), PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.DownloadsTest@4e3958e7</td></tr>
+<tr>
+<td title='tests.DashboardTest.verifyDashboard()'><b>verifyDashboard</b><br>Test class: tests.DashboardTest<br>Parameters: DB_05, Dashboard, 6, 4, Downloads, </td>
+<td></td>
+<td>0</td>
+<td>tests.DashboardTest@4c309d4d</td></tr>
+<tr>
+<td title='tests.UselinkTest.verifyUsefulLinksPage()'><b>verifyUsefulLinksPage</b><br>Test class: tests.UselinkTest<br>Parameters: UL_03,  Useful Links ,           Selenium Interview   Questions     , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.UselinkTest@6ab778a</td></tr>
+<tr>
+<td title='tests.AddUserTest.verifyAddUser()'><b>verifyAddUser</b><br>Test class: tests.AddUserTest<br>Parameters: AU_02, , 9876543210, user@test.com, Java/J2EE, Male, Maharashtra, Test@123, FAIL</td>
+<td></td>
+<td>2</td>
+<td>tests.AddUserTest@38102d01</td></tr>
+<tr>
+<td title='tests.DashboardTest.verifyDashboard()'><b>verifyDashboard</b><br>Test class: tests.DashboardTest<br>Parameters: DB_02, Dashboard, 6, 4, Users, Java / J2EE</td>
+<td></td>
+<td>0</td>
+<td>tests.DashboardTest@4c309d4d</td></tr>
+<tr>
+<td title='tests.LoginTest.verifyLogin()'><b>verifyLogin</b><br>Test class: tests.LoginTest<br>Parameters: LOG_03, bgh@gmail.com, 123456, 0</td>
+<td></td>
+<td>2</td>
+<td>tests.LoginTest@37271612</td></tr>
+<tr>
+<td title='tests.DashboardTest.verifyDashboard()'><b>verifyDashboard</b><br>Test class: tests.DashboardTest<br>Parameters: DB_04, Dashboard, 6, 4, Useful Links, Php</td>
+<td></td>
+<td>0</td>
+<td>tests.DashboardTest@4c309d4d</td></tr>
+<tr>
+<td title='tests.LoginTest.verifyLogin()'><b>verifyLogin</b><br>Test class: tests.LoginTest<br>Parameters: LOG_06, kiran@gmail.com, , 0</td>
+<td></td>
+<td>2</td>
+<td>tests.LoginTest@37271612</td></tr>
+<tr>
+<td title='tests.LoginTest.verifyLogin()'><b>verifyLogin</b><br>Test class: tests.LoginTest<br>Parameters: LOG_02, Abc@gmail.com, 676969, 0</td>
+<td></td>
+<td>3</td>
+<td>tests.LoginTest@37271612</td></tr>
+<tr>
+<td title='tests.LoginTest.verifyLogin()'><b>verifyLogin</b><br>Test class: tests.LoginTest<br>Parameters: LOG_05, , 123456, 0</td>
+<td></td>
+<td>3</td>
+<td>tests.LoginTest@37271612</td></tr>
+<tr>
+<td title='tests.RegisterTest.verifyRegister()'><b>verifyRegister</b><br>Test class: tests.RegisterTest<br>Parameters: REG_04, John Doe, 9785893468, "", Test@123, 0</td>
+<td></td>
+<td>2</td>
+<td>tests.RegisterTest@ed7f8b4</td></tr>
+<tr>
+<td title='tests.OperatorsTest.verifyOperatorsPage()'><b>verifyOperatorsPage</b><br>Test class: tests.OperatorsTest<br>Parameters: OP_03, Operators, 5, Akash</td>
+<td></td>
+<td>0</td>
+<td>tests.OperatorsTest@37883b97</td></tr>
+<tr>
+<td title='tests.DownloadsTest.verifyDownloadsPage()'><b>verifyDownloadsPage</b><br>Test class: tests.DownloadsTest<br>Parameters: DL_05, Gecko Driver for Latest firefox , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.DownloadsTest@4e3958e7</td></tr>
+<tr>
+<td title='tests.UselinkTest.verifyUsefulLinksPage()'><b>verifyUsefulLinksPage</b><br>Test class: tests.UselinkTest<br>Parameters: UL_04,  Useful Links ,        Java Interview Questions                   , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.UselinkTest@6ab778a</td></tr>
+<tr>
+<td title='tests.AddUserTest.verifyAddUser()'><b>verifyAddUser</b><br>Test class: tests.AddUserTest<br>Parameters: AU_04, disha12, 9876543210, , python, female, Maharashtra, disha@123, FAIL</td>
+<td></td>
+<td>2</td>
+<td>tests.AddUserTest@38102d01</td></tr>
+<tr>
+<td title='tests.RegisterTest.verifyRegister()'><b>verifyRegister</b><br>Test class: tests.RegisterTest<br>Parameters: REG_01, pooja patil, 9876543226, john1@test.com, Test@123, 1</td>
+<td></td>
+<td>2</td>
+<td>tests.RegisterTest@ed7f8b4</td></tr>
+<tr>
+<td title='tests.AddUserTest.verifyAddUser()'><b>verifyAddUser</b><br>Test class: tests.AddUserTest<br>Parameters: AU_03, John, , john@gmail.com, sql, Male, HP, John@123, FAIL</td>
+<td></td>
+<td>2</td>
+<td>tests.AddUserTest@38102d01</td></tr>
+<tr>
+<td title='tests.UselinkTest.verifyUsefulLinksPage()'><b>verifyUsefulLinksPage</b><br>Test class: tests.UselinkTest<br>Parameters: UL_02,  Useful Links ,       Video Lactures All Topics, PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.UselinkTest@6ab778a</td></tr>
+<tr>
+<td title='tests.DownloadsTest.verifyDownloadsPage()'><b>verifyDownloadsPage</b><br>Test class: tests.DownloadsTest<br>Parameters: DL_03, Google Chrome  , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.DownloadsTest@4e3958e7</td></tr>
+<tr>
+<td title='tests.RegisterTest.verifyRegister()'><b>verifyRegister</b><br>Test class: tests.RegisterTest<br>Parameters: REG_05, John Doe, 9827594745, AA@fmail.com, "", 0</td>
+<td></td>
+<td>2</td>
+<td>tests.RegisterTest@ed7f8b4</td></tr>
+<tr>
+<td title='tests.UselinkTest.verifyUsefulLinksPage()'><b>verifyUsefulLinksPage</b><br>Test class: tests.UselinkTest<br>Parameters: UL_06,  Useful Links ,      Placement                                        , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.UselinkTest@6ab778a</td></tr>
+<tr>
+<td title='tests.RegisterTest.verifyRegister()'><b>verifyRegister</b><br>Test class: tests.RegisterTest<br>Parameters: REG_03, trisha doe, "", doe@test.com, Test@123, 0</td>
+<td></td>
+<td>2</td>
+<td>tests.RegisterTest@ed7f8b4</td></tr>
+<tr>
+<td title='tests.AddUserTest.verifyAddUser()'><b>verifyAddUser</b><br>Test class: tests.AddUserTest<br>Parameters: AU_07, Johy, 9876543210, user@test.com, c, Male, , Test@123, FAIL</td>
+<td></td>
+<td>1</td>
+<td>tests.AddUserTest@38102d01</td></tr>
+<tr>
+<td title='tests.DownloadsTest.verifyDownloadsPage()'><b>verifyDownloadsPage</b><br>Test class: tests.DownloadsTest<br>Parameters: DL_04,  Mozilla Firefox           , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.DownloadsTest@4e3958e7</td></tr>
+<tr>
+<td title='tests.DashboardTest.verifyDashboard()'><b>verifyDashboard</b><br>Test class: tests.DashboardTest<br>Parameters: DB_01, Dashboard, 6, 4, Dashboard , Selenium</td>
+<td></td>
+<td>0</td>
+<td>tests.DashboardTest@4c309d4d</td></tr>
+<tr>
+<td title='tests.AddUserTest.verifyAddUser()'><b>verifyAddUser</b><br>Test class: tests.AddUserTest<br>Parameters: AU_06, om, 12345, om@gmail.com, selenium, , Delhi, om123, FAIL</td>
+<td></td>
+<td>1</td>
+<td>tests.AddUserTest@38102d01</td></tr>
+<tr>
+<td title='tests.UselinkTest.verifyUsefulLinksPage()'><b>verifyUsefulLinksPage</b><br>Test class: tests.UselinkTest<br>Parameters: UL_01,  Useful Links ,                Schedule                        , PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.UselinkTest@6ab778a</td></tr>
+<tr>
+<td title='tests.DownloadsTest.verifyDownloadsPage()'><b>verifyDownloadsPage</b><br>Test class: tests.DownloadsTest<br>Parameters: DL_02,  Selenium Server source Jar, PASS</td>
+<td></td>
+<td>0</td>
+<td>tests.DownloadsTest@4e3958e7</td></tr>
+<tr>
+<td title='tests.DashboardTest.verifyDashboard()'><b>verifyDashboard</b><br>Test class: tests.DashboardTest<br>Parameters: DB_06, Dashboard, 6, 4, Logout, </td>
+<td></td>
+<td>0</td>
+<td>tests.DashboardTest@4c309d4d</td></tr>
+<tr>
+<td title='tests.OperatorsTest.verifyOperatorsPage()'><b>verifyOperatorsPage</b><br>Test class: tests.OperatorsTest<br>Parameters: OP_05, Operators, 5, Pankaj</td>
+<td></td>
+<td>0</td>
+<td>tests.OperatorsTest@37883b97</td></tr>
+<tr>
+<td title='tests.DashboardTest.verifyDashboard()'><b>verifyDashboard</b><br>Test class: tests.DashboardTest<br>Parameters: DB_03, Dashboard, 6, 4, Operators, Python</td>
+<td></td>
+<td>0</td>
+<td>tests.DashboardTest@4c309d4d</td></tr>
+</table><p>
+</body>
+</html>
