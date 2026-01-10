@@ -46,21 +46,6 @@ Configured using:
 
 -Browser setup in BaseTet
 
-
-🌍 Cross Browser Execution
-
--Chrome
-
--Firefox
-
--Edge
-
-Configured using:
-
--TestNG @Parameters
-
--Browser setup in BaseTet
-
 ---
 
 📄 Page Description
