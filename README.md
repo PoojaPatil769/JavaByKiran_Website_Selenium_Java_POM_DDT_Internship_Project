@@ -129,5 +129,11 @@ It plays a key role in validating new user onboarding workflows.
 
 • Java / J2EE – Software Development
 
+
+
+<img width="1239" height="626" alt="Image" src="https://github.com/user-attachments/assets/1a81f3a6-3201-4bce-9bbc-a4221ac86839" />
+
+
+
 • Python – Data Science
 • PHP – Web Development
