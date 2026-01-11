@@ -102,22 +102,32 @@ It plays a key role in validating new user onboarding workflows.
 📌 Page Description
 
 • Dashboard is the landing page after successful login
+
 • Displays available courses offered by JavaByKiran
+
 • Acts as the main navigation hub of the application
 
 🧪 Automation Points Covered
 
 • Verify Dashboard page loads successfully after login
+
 • Validate Dashboard page title and heading
+
 • Verify visibility of all course cards
+
 • Validate course names displayed correctly
+
 • Verify More Info button is present for each course
+
 • Validate navigation menu items on left panel
+
 • Verify Logout option availability
 
 📚 Courses Displayed on Dashboard
-
+---
 • Selenium – Automation Testing
+
 • Java / J2EE – Software Development
+
 • Python – Data Science
 • PHP – Web Development
