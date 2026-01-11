@@ -70,24 +70,23 @@ This page is a critical functional area, as all secured modules depend on succes
 <img width="1267" height="668" alt="Image" src="https://github.com/user-attachments/assets/ccbaa2c7-8549-4c35-9e2f-ce9c7f062b9a" />
 
 
+
+
 📄The Register Page allows new users to create an account in the JavaByKiran / TheKiranAcademy application.
 This page captures essential user details and enables successful registration before logging into the system.
 
 It plays a key role in validating new user onboarding workflows.
 
-⚙️ The following test scenarios are automated for the Register page:
+🧪 Automation Points Covered
 
-✔ New user registration with valid data
-
-✔ Mandatory field validation
-
-✔ Navigation back to Login page
-
-✔ Successful form submission
-
-✔ UI element visibility validation
-
-
+• Verify Register page loads successfully
+• Validate Name input field
+• Validate Mobile number input field
+• Validate Email address input field
+• Validate Password input field
+• Verify Sign In / Register button functionality
+• Verify navigation to Login page after successful registration
+• Validate Already have a membership link
 
 
 <img width="1280" height="659" alt="Image" src="https://github.com/user-attachments/assets/9c83f339-92f7-4124-851c-59b2c60042b3" />
