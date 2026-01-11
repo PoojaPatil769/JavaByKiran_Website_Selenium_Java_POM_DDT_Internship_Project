@@ -96,4 +96,28 @@ It plays a key role in validating new user onboarding workflows.
 
 <img width="1280" height="659" alt="Image" src="https://github.com/user-attachments/assets/9c83f339-92f7-4124-851c-59b2c60042b3" />
 
+---
 
+
+📌 Page Description
+
+• Dashboard is the landing page after successful login
+• Displays available courses offered by JavaByKiran
+• Acts as the main navigation hub of the application
+
+🧪 Automation Points Covered
+
+• Verify Dashboard page loads successfully after login
+• Validate Dashboard page title and heading
+• Verify visibility of all course cards
+• Validate course names displayed correctly
+• Verify More Info button is present for each course
+• Validate navigation menu items on left panel
+• Verify Logout option availability
+
+📚 Courses Displayed on Dashboard
+
+• Selenium – Automation Testing
+• Java / J2EE – Software Development
+• Python – Data Science
+• PHP – Web Development
