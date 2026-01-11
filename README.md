@@ -30,9 +30,11 @@ ___
 🌍 Cross Browser Execution
 
 • 🌐 Google Chrome
-• 🦊 Mozilla Firefox
-• 🔷 Microsoft Edge
 
+• 🦊 Mozilla Firefox
+
+• 🔷 Microsoft Edge
+---
 Configured using:
 
 -TestNG @Parameters
