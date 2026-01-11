@@ -20,17 +20,12 @@ JavaByKiran / TheKiranAcademy Web Application
 
 *Features automated:
 
--Login & Registration
-
--Dashboard validations
-
--User management
-
--Operators listing
-
--Downloads page
-
--Useful links navigation
+- **Login & Registration
+- **Dashboard validations
+- **User management
+- **Operators listing
+- **Downloads page
+- **Useful links navigation
 ___
 🌍 Cross Browser Execution
 
