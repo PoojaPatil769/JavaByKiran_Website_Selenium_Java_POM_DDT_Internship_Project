@@ -48,9 +48,8 @@ Configured using:
 
 ___
 
-📄 Page Description
 
-The Login Page is the entry point of the JavaByKiran / TheKiranAcademy web application.
+📄The Login Page is the entry point of the JavaByKiran / TheKiranAcademy web application.
 It authenticates users using Email and Password and grants access to the application dashboard upon successful login.
 This page is a critical functional area, as all secured modules depend on successful authentication.
 
@@ -69,4 +68,28 @@ This page is a critical functional area, as all secured modules depend on succes
 ✔ Verification of error messages (if credentials are incorrect)
 
 <img width="1267" height="668" alt="Image" src="https://github.com/user-attachments/assets/ccbaa2c7-8549-4c35-9e2f-ce9c7f062b9a" />
+
+
+📄The Register Page allows new users to create an account in the JavaByKiran / TheKiranAcademy application.
+This page captures essential user details and enables successful registration before logging into the system.
+
+It plays a key role in validating new user onboarding workflows.
+
+⚙️ The following test scenarios are automated for the Register page:
+
+✔ New user registration with valid data
+
+✔ Mandatory field validation
+
+✔ Navigation back to Login page
+
+✔ Successful form submission
+
+✔ UI element visibility validation
+
+
+
+
+<img width="1280" height="659" alt="Image" src="https://github.com/user-attachments/assets/9c83f339-92f7-4124-851c-59b2c60042b3" />
+
 
