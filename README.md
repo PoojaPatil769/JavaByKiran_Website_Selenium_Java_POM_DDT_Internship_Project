@@ -34,6 +34,7 @@ ___
 • 🦊 Mozilla Firefox
 
 • 🔷 Microsoft Edge
+
 ---
 Configured using:
 
