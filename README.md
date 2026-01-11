@@ -106,7 +106,7 @@ It plays a key role in validating new user onboarding workflows.
 • Displays available courses offered by JavaByKiran
 
 • Acts as the main navigation hub of the application
-
+---
 🧪 Automation Points Covered
 
 • Verify Dashboard page loads successfully after login
@@ -129,11 +129,11 @@ It plays a key role in validating new user onboarding workflows.
 
 • Java / J2EE – Software Development
 
+• Python – Data Science
 
+• PHP – Web Development
 
 <img width="1239" height="626" alt="Image" src="https://github.com/user-attachments/assets/1a81f3a6-3201-4bce-9bbc-a4221ac86839" />
 
+____
 
-
-• Python – Data Science
-• PHP – Web Development
