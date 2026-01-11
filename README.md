@@ -29,9 +29,9 @@ JavaByKiran / TheKiranAcademy Web Application
 ___
 🌍 Cross Browser Execution
 
--Chrome
+ **Chrome
 
--Firefox
+Firefox
 
 -Edge
 
