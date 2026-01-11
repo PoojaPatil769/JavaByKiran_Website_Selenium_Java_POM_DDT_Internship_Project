@@ -106,8 +106,9 @@ It plays a key role in validating new user onboarding workflows.
 • Displays available courses offered by JavaByKiran
 
 • Acts as the main navigation hub of the application
----
+
 🧪 Automation Points Covered
+---
 
 • Verify Dashboard page loads successfully after login
 
