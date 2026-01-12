@@ -122,7 +122,7 @@ It plays a key role in validating new user onboarding workflows.
 
 • PHP – Web Development
 
-<img width="1239" height="626" alt="Image" src="https://github.com/user-attachments/assets/1a81f3a6-3201-4bce-9bbc-a4221ac86839" />
+⭐<img width="1239" height="626" alt="Image" src="https://github.com/user-attachments/assets/1a81f3a6-3201-4bce-9bbc-a4221ac86839" />
 
 ____
 
