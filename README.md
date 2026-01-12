@@ -182,6 +182,23 @@ ____
 
 ___
 
+Here, I did cross-browser testing 
+
+
+<img width="1280" height="716" alt="Image" src="https://github.com/user-attachments/assets/34820acf-233f-4086-977c-15281b109a29" />
+
+____
+
+
+⬢ Test Execution Summary
+
+✔ Total Test Cases Executed: 123
+✔ Passed: 123
+✔ Failed: 0
+✔Skipped: 0
+✔Execution Status: 100% PASS
+
+<img width="1204" height="700" alt="Image" src="https://github.com/user-attachments/assets/4a57bd33-10fa-4ec2-8cd4-09a9ed09c6d8" />
 
 
 
