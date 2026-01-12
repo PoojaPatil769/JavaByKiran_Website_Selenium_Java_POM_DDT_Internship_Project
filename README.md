@@ -73,22 +73,14 @@ It plays a key role in validating new user onboarding workflows.
 
 🧪 Automation Points Covered
 
-• Verify Register page loads successfully
-
-• Validate Name input field
-
-• Validate Mobile number input field
-
-• Validate Email address input field
-
-• Validate Password input field
-
-• Verify Sign In / Register button functionality
-
-• Verify navigation to Login page after successful registration
-
-• register new  membership link
-
+- **Verify Register page loads successfully:**
+- **Validate Name input field:**
+- **Validate Mobile number input field:**
+- **Validate Email address input field:**
+- **Validate Password input field:**
+- **Verify Sign In / Register button functionality:**
+- **Verify navigation to Login page after successful registration:**
+- **register new  membership link:**
 
 <img width="1280" height="659" alt="Image" src="https://github.com/user-attachments/assets/9c83f339-92f7-4124-851c-59b2c60042b3" />
 
@@ -139,15 +131,15 @@ ____
 🧪 Automation Points Covered
 ---
 - **Verify Add User page loads correctly:**
-- **Validate Username input field
-- **Validate Mobile number input field
+- **Validate Username input field:**
+- **Validate Mobile number input field:**
  - **Validate Email input field
 - **Validate Course input field:**
 - **Validate Gender radio button selection:**
-- **Validate State dropdown selection
-- **Validate Password field
-- **Verify Submit button functionality
-- **Verify Cancel button functionality
+- **Validate State dropdown selection:**
+- **Validate Password field:**
+- **Verify Submit button functionality:**
+- **Verify Cancel button functionality:**
 
 
 
