@@ -135,8 +135,7 @@ ____
 - **Verify Cancel button functionality:**
 - 
 <img width="1278" height="656" alt="Image" src="https://github.com/user-attachments/assets/0766b4b2-d4e3-4af2-bf01-48f7086bd4f4" />
-___
-
+---
 ⭐Oprator page Displays list of operators available for technical and administrative support , Shows operator name, purpose, preferred communication methods, contact number, and working timings ,Helps users quickly connect with appropriate support staff
 
 ⬢ Automation Scope Implemented
@@ -148,7 +147,51 @@ ___
 - **Print all operator names for verification and logging:**
 - **Operators page header visibility:**
 
+<img width="1280" height="591" alt="Image" src="https://github.com/user-attachments/assets/05b0fe5a-5ccd-4ebd-a9c8-e788935e7345" />
+___
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1269" height="617" alt="Image" src="https://github.com/user-attachments/assets/219fac89-0126-429f-a9f6-1856a41f8b96" />
+
+____
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1276" height="625" alt="Image" src="https://github.com/user-attachments/assets/845e7889-b5a6-4195-9f1f-cd501edbe751" />
 
 
 
