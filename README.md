@@ -44,7 +44,7 @@ Configured using:
 
 ___
 
-📄The Login Page is the entry point of the JavaByKiran / TheKiranAcademy web application.
+⭐The Login Page is the entry point of the JavaByKiran / TheKiranAcademy web application.
 It authenticates users using Email and Password and grants access to the application dashboard upon successful login.
 This page is a critical functional area, as all secured modules depend on successful authentication.
 
@@ -67,7 +67,7 @@ This page is a critical functional area, as all secured modules depend on succes
 ____
 
 
-📄The Register Page allows new users to create an account in the JavaByKiran / TheKiranAcademy application.
+⭐The Register Page allows new users to create an account in the JavaByKiran / TheKiranAcademy application.
 This page captures essential user details and enables successful registration before logging into the system.
 It plays a key role in validating new user onboarding workflows.
 
@@ -86,14 +86,7 @@ It plays a key role in validating new user onboarding workflows.
 
 ---
 
-
-📌 Page Description
-
-• Dashboard is the landing page after successful login
-
-• Displays available courses offered by JavaByKiran
-
-• Acts as the main navigation hub of the application
+⭐ Dashboard is the landing page after successful login , Displays available courses offered by JavaByKiran ,Acts as the main navigation hub of the application
 
 🧪 Automation Points Covered
 ---
@@ -122,11 +115,11 @@ It plays a key role in validating new user onboarding workflows.
 
 • PHP – Web Development
 
-⭐<img width="1239" height="626" alt="Image" src="https://github.com/user-attachments/assets/1a81f3a6-3201-4bce-9bbc-a4221ac86839" />
+<img width="1239" height="626" alt="Image" src="https://github.com/user-attachments/assets/1a81f3a6-3201-4bce-9bbc-a4221ac86839" />
 
 ____
 
-📌Add user page Allows admin to add new users to the system , Captures complete user information , Used for user management functionality
+⭐Add user page Allows admin to add new users to the system , Captures complete user information , Used for user management functionality
 
 🧪 Automation Points Covered
 ---
