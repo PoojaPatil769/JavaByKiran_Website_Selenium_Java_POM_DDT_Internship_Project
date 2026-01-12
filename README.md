@@ -20,12 +20,12 @@ JavaByKiran / TheKiranAcademy Web Application
 
 *Features automated:
 
-- **Login & Registration
-- **Dashboard validations
-- **User management
-- **Operators listing
-- **Downloads page
-- **Useful links navigation
+✔ Login & Registration
+✔ Dashboard validations
+✔ User management
+✔ Operators listing
+✔ Downloads page
+✔ Useful links navigation
 ___
 🌍 Cross Browser Execution
 
@@ -79,14 +79,14 @@ It plays a key role in validating new user onboarding workflows.
 - **Validate Email address input field:**
 - **Validate Password input field:**
 - **Verify Sign In / Register button functionality:**
-- **Verify navigation to Login page after successful registration:**
+- **Verify navigation to the Login page after successful registration:**
 - **register new  membership link:**
 
 <img width="1280" height="659" alt="Image" src="https://github.com/user-attachments/assets/9c83f339-92f7-4124-851c-59b2c60042b3" />
 
 ---
 
-⭐ Dashboard is the landing page after successful login , Displays available courses offered by JavaByKiran ,Acts as the main navigation hub of the application
+⭐ Dashboard is the landing page after successful login, Displays available courses offered by JavaByKiran , and acts as the main navigation hub of the application
 
 🧪 Automation Points Covered
 ---
@@ -119,14 +119,14 @@ It plays a key role in validating new user onboarding workflows.
 
 ____
 
-⭐Add user page Allows admin to add new users to the system , Captures complete user information , Used for user management functionality
+⭐Add user page: Allows admin to add new users to the system, captures complete user information, Used for user management functionality
 
 🧪 Automation Points Covered
 ---
 - **Verify Add User page loads correctly:**
 - **Validate Username input field:**
 - **Validate Mobile number input field:**
- - **Validate Email input field
+- **Validate Email input field:**
 - **Validate Course input field:**
 - **Validate Gender radio button selection:**
 - **Validate State dropdown selection:**
@@ -138,7 +138,7 @@ ____
 
 ___
 
-⭐Oprator page Displays list of operators available for technical and administrative support , Shows operator name, purpose, preferred communication methods, contact number, and working timings ,Helps users quickly connect with appropriate support staff
+⭐ Operator page displays a list of operators available for technical and administrative support, Shows operator name, purpose, preferred communication methods, contact number, and working timings, and helps users quickly connect with appropriate support staff
 
 ⬢ Automation Scope Implemented
 ---
@@ -150,52 +150,37 @@ ___
 - **Operators page header visibility:**
 
 <img width="1280" height="591" alt="Image" src="https://github.com/user-attachments/assets/05b0fe5a-5ccd-4ebd-a9c8-e788935e7345" />
+
 ___
 
 
+⭐UsefullLink page displays important learning, interview, and placement-related resources. Requires an active internet connection, Acts as a centralised resource hub for students
 
-
-
-
-
-
-
-
-
-
-
-
-
+⬢ Automation Scope Implemented
+---
+- **Validate Useful Links page navigation from Dashboard:**
+- **Verify Useful Links page title is displayed:**
+- **Validate the links table is present:**
+- **Validate total number of links displayed:**
+- **Validate if all content names are present there or not:**
 
 <img width="1269" height="617" alt="Image" src="https://github.com/user-attachments/assets/219fac89-0126-429f-a9f6-1856a41f8b96" />
 
 ____
 
+⭐Download page displays a list of required software and tools for automation setup,Helps users download correct versions of browsers, drivers, and dependencies,Acts as a one-stop setup reference for Selenium automation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+⬢ Automation Scope Implemented
+---
+- **Validate Downloads page navigation from Dashboard:**
+- **Verify Downloads page title is displayed:**
+- **Validate downloads table presence:**
+- **Validate software names and vendor information:**
+- **Verify Official Website buttons:**
 
 <img width="1276" height="625" alt="Image" src="https://github.com/user-attachments/assets/845e7889-b5a6-4195-9f1f-cd501edbe751" />
 
-
+___
 
 
 
