@@ -134,16 +134,12 @@ It plays a key role in validating new user onboarding workflows.
 
 ____
 
-📌 Page Description
-
-• Allows admin to add new users to the system
-• Captures complete user information
-• Used for user management functionality
+📌Add user page Allows admin to add new users to the system , Captures complete user information , Used for user management functionality
 
 🧪 Automation Points Covered
 ---
-• Verify Add User page loads correctly
-• Validate Username input field
+- **Verify Add User page loads correctly
+- **Validate Username input field
 • Validate Mobile number input field
 • Validate Email input field
 • Validate Course input field
