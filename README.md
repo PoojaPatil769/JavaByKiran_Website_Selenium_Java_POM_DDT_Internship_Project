@@ -20,8 +20,8 @@ JavaByKiran / TheKiranAcademy Web Application
 
 *Features automated:
 
-- **Login & Registration:
-- **Dashboard validations:**
+- **Login & Registration
+- **Dashboard validations
 - **User management
 - **Operators listing
 - **Downloads page
@@ -138,16 +138,16 @@ ____
 
 🧪 Automation Points Covered
 ---
-- **Verify Add User page loads correctly
+- **Verify Add User page loads correctly:**
 - **Validate Username input field
-• Validate Mobile number input field
-• Validate Email input field
-• Validate Course input field
-• Validate Gender radio button selection
-• Validate State dropdown selection
-• Validate Password field
-• Verify Submit button functionality
-• Verify Cancel button functionality
+- **Validate Mobile number input field
+ - **Validate Email input field
+- **Validate Course input field:**
+- **Validate Gender radio button selection:**
+- **Validate State dropdown selection
+- **Validate Password field
+- **Verify Submit button functionality
+- **Verify Cancel button functionality
 
 
 
