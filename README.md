@@ -133,8 +133,9 @@ ____
 - **Validate Password field:**
 - **Verify Submit button functionality:**
 - **Verify Cancel button functionality:**
-- 
+
 <img width="1278" height="656" alt="Image" src="https://github.com/user-attachments/assets/0766b4b2-d4e3-4af2-bf01-48f7086bd4f4" />
+
 ___
 
 ⭐Oprator page Displays list of operators available for technical and administrative support , Shows operator name, purpose, preferred communication methods, contact number, and working timings ,Helps users quickly connect with appropriate support staff
